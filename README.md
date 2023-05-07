@@ -1,16 +1,4 @@
-# lotteryapp
+Basically it was a simple lottery app which will random generate lottery number and if the random number was equal to the user number then the user won lottery or it will display better luck next time.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1679771671](https://user-images.githubusercontent.com/114103970/236681797-18f55977-7ebf-48b3-b3f5-e378cd007fb5.png)
+![Screenshot_1679771535](https://user-images.githubusercontent.com/114103970/236681834-d656db4e-ef57-4cf0-87ec-7050a13cc298.png)
